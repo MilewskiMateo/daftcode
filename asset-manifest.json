@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/daftcode/static/css/main.f95fa975.chunk.css",
-    "main.js": "/daftcode/static/js/main.669def18.chunk.js",
-    "main.js.map": "/daftcode/static/js/main.669def18.chunk.js.map",
+    "main.js": "/daftcode/static/js/main.55cbc9b2.chunk.js",
+    "main.js.map": "/daftcode/static/js/main.55cbc9b2.chunk.js.map",
     "runtime-main.js": "/daftcode/static/js/runtime-main.1d5680b9.js",
     "runtime-main.js.map": "/daftcode/static/js/runtime-main.1d5680b9.js.map",
-    "static/js/2.410fd61e.chunk.js": "/daftcode/static/js/2.410fd61e.chunk.js",
-    "static/js/2.410fd61e.chunk.js.map": "/daftcode/static/js/2.410fd61e.chunk.js.map",
+    "static/js/2.d64137dc.chunk.js": "/daftcode/static/js/2.d64137dc.chunk.js",
+    "static/js/2.d64137dc.chunk.js.map": "/daftcode/static/js/2.d64137dc.chunk.js.map",
     "index.html": "/daftcode/index.html",
     "static/css/main.f95fa975.chunk.css.map": "/daftcode/static/css/main.f95fa975.chunk.css.map",
-    "static/js/2.410fd61e.chunk.js.LICENSE.txt": "/daftcode/static/js/2.410fd61e.chunk.js.LICENSE.txt",
+    "static/js/2.d64137dc.chunk.js.LICENSE.txt": "/daftcode/static/js/2.d64137dc.chunk.js.LICENSE.txt",
     "static/media/Frame@2x-1.svg": "/daftcode/static/media/Frame@2x-1.27971176.svg",
     "static/media/Frame@2x-2.svg": "/daftcode/static/media/Frame@2x-2.188c2c2f.svg",
     "static/media/Frame@2x.svg": "/daftcode/static/media/Frame@2x.1a101426.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1d5680b9.js",
-    "static/js/2.410fd61e.chunk.js",
+    "static/js/2.d64137dc.chunk.js",
     "static/css/main.f95fa975.chunk.css",
-    "static/js/main.669def18.chunk.js"
+    "static/js/main.55cbc9b2.chunk.js"
   ]
 }
