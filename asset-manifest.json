@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/daftcode/static/css/main.f95fa975.chunk.css",
+    "main.js": "/daftcode/static/js/main.669def18.chunk.js",
+    "main.js.map": "/daftcode/static/js/main.669def18.chunk.js.map",
+    "runtime-main.js": "/daftcode/static/js/runtime-main.1d5680b9.js",
+    "runtime-main.js.map": "/daftcode/static/js/runtime-main.1d5680b9.js.map",
+    "static/js/2.410fd61e.chunk.js": "/daftcode/static/js/2.410fd61e.chunk.js",
+    "static/js/2.410fd61e.chunk.js.map": "/daftcode/static/js/2.410fd61e.chunk.js.map",
+    "index.html": "/daftcode/index.html",
+    "static/css/main.f95fa975.chunk.css.map": "/daftcode/static/css/main.f95fa975.chunk.css.map",
+    "static/js/2.410fd61e.chunk.js.LICENSE.txt": "/daftcode/static/js/2.410fd61e.chunk.js.LICENSE.txt",
+    "static/media/Frame@2x-1.svg": "/daftcode/static/media/Frame@2x-1.27971176.svg",
+    "static/media/Frame@2x-2.svg": "/daftcode/static/media/Frame@2x-2.188c2c2f.svg",
+    "static/media/Frame@2x.svg": "/daftcode/static/media/Frame@2x.1a101426.svg",
+    "static/media/Logo.svg": "/daftcode/static/media/Logo.49fe9b28.svg",
+    "static/media/Logo@2x.svg": "/daftcode/static/media/Logo@2x.0a440b17.svg",
+    "static/media/hero img@2x.svg": "/daftcode/static/media/hero img@2x.b3a847d9.svg",
+    "static/media/logo_sygnet.svg": "/daftcode/static/media/logo_sygnet.42476d1c.svg",
+    "static/media/video_image.png": "/daftcode/static/media/video_image.164cfc5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d5680b9.js",
+    "static/js/2.410fd61e.chunk.js",
+    "static/css/main.f95fa975.chunk.css",
+    "static/js/main.669def18.chunk.js"
+  ]
+}
